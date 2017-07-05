@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/rpwoodbu/code/kicad/vssop_10_breakout/vssop_10_breakout.sch)
-    (date "Tue 04 Jul 2017 12:57:09 AM EDT")
+    (date "Tue 04 Jul 2017 10:34:07 PM EDT")
     (tool "Eeschema 4.0.6-e0-6349~53~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value VSSOP-10)
-      (footprint Housings_SSOP:TSSOP-10_3x3mm_Pitch0.5mm)
+      (footprint VSSOP:VSSOP-10_3x3mm_Pitch0.5mm)
       (libsource (lib vssop-10) (part VSSOP-10))
       (sheetpath (names /) (tstamps /))
       (tstamp 595B1FC4))
